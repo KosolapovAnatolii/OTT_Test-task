@@ -1,1 +1,1 @@
-[DEMO_LINK] https://kosolapovanatolii.github.io/OttClub_test-task/
+[DEMO_LINK] https://kosolapovanatolii.github.io/OTT_Test-task/
